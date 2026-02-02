@@ -9,3 +9,5 @@ Encourage long-term contracts by offering incentives to convert month-to-month c
 Re-engage long-term customers through loyalty programs, feature updates, and personalized communication.
 Implement targeted retention campaigns for high-risk segments based on tenure and contract type.
 Closely monitor high-revenue customers and proactively intervene before churn occurs.
+https://github.com/VeereshCY/FUTURE_DS_02/blob/bfcdef0a774699542904cdfc1b8ec08350143f77/Dashboard_Page_1.png
+
