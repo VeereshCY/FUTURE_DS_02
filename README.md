@@ -1,1 +1,2 @@
-![Customer Retention and Churn Analysis](screenshot/dashboard_page_1.png)
+![Customer Retention and Churn Analysis](screenshot/Dashboard_Page_1)
+
